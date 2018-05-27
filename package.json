@@ -1,0 +1,12 @@
+{
+  "name": "fedinside",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "form-data": "^2.3.2",
+    "htmlparser2": "^3.9.2",
+    "node-fetch": "^2.1.2"
+  }
+}
